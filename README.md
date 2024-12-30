@@ -37,6 +37,6 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 ## 📬 Connect with Me
 - 💌 [Email Me](mailto:arnoldtwl@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/arnoldtwl)
-- 🌐 [Portfolio](https://arnoldtwl.github.io)
+- 🌐 [Portfolio](https://arnoldtwl.github.io/CV)
 
 > "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
