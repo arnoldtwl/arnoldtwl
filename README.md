@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnoldtwl&theme=radical)
 
 ## ✨ Featured Repositories
-[![Library Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=arnoldtwl&repo=library-dashboard)](https://github.com/arnoldtwl/library-dashboard)
-[![React Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=arnoldtwl&repo=react-portfolio)](https://github.com/arnoldtwl/react-portfolio)
+[![Library Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=arnoldtwl&repo=library-dashboard)](https://github.com/arnoldtwl/hangman-game)
+[![React Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=arnoldtwl&repo=react-portfolio)](https://github.com/arnoldtwl/city-weather-app)
 
 ## 🌟 Fun Facts
 - 🖊️ Emerson is my favorite author.
