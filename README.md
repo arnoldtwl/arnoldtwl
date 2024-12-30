@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 
 ## 🛠️ Skills
 - **Programming:** JavaScript, React, Next.js, Node.js, Python
-- **Library Systems:** Sierra, DSpace, OpenAthens
+- **Library Systems:** Sierra, COUNTER, Discovery tools
 - **Other Skills:** Negotiation, Electronic Resource Management, Content Marketing
 
 ## 💼 Work & Projects
