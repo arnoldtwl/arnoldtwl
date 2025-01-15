@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 
 ## 📈 GitHub Stats
 ![Arnold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldtwl&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnoldtwl&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=arnoldtwl&theme=radical)
 
 ## ✨ Featured Projects
 [![Hangman Game](https://github-readme-stats.vercel.app/api/pin/?username=arnoldtwl&repo=hangman-game)](https://github.com/arnoldtwl/hangman-game)
