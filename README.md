@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 - 🔧 Building with **JavaScript, React, and Next.js**
 - 📚 Aiming to become a **System Librarian**
 - 🌟 Inspired by Emerson's philosophy of individualism
-- ⚽ Arsenal fan and avid book lover
+- ⚽ Mamelodi Sundowns and Arsenal fan and avid book lover
 
 ## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 
 ## 🌟 Fun Facts
 - 🖊️ Emerson is my favorite author.
-- 📖 I enjoy books on personal development and philosophy.
+- 📖 I enjoy books on Fiction and philosophy.
 - 🛠️ Currently learning advanced React patterns and system integration.
 
 ## 📬 Connect with Me
