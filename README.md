@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 - 🔧 Building with **JavaScript, React, and Next.js**
 - 📚 Aiming to become a **System Librarian**
 - 🌟 Inspired by Emerson's philosophy of individualism
-- ⚽ Mamelodi Sundowns and Arsenal fan and avid book lover
+- ⚽ Mamelodi Sundowns and Arsenal fan, and avid book lover
 
 ## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,13 +19,17 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## 💼 Current Projects
+- **Portfolio UI Update**: Enhancing the user interface for my portfolio to create a better user experience.
+- **CMS Website**: Developing a content management system to manage my portfolio website effectively.
+- **Learning**: Pursuing the **Google Data Analytics Professional Certificate** to strengthen my data analysis skills.
+
 ## 💼 Future Projects
 - **Healthcare Appointment System**: Developing a solution to streamline scheduling and management of healthcare appointments.
-- **Nationality Predictor**: A web app predicting nationality, gender, and approximate age based on names.
 
 ## 📈 GitHub Stats
 ![Arnold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldtwl&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats-sigma-mauve.vercel.app?user=arnoldtwl&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arnoldtwl&theme=radical)](https://git.io/streak-stats)
 
 ## ✨ Featured Projects
 [![Hangman Game](https://github-readme-stats.vercel.app/api/pin/?username=arnoldtwl&repo=hangman-game)](https://github.com/arnoldtwl/hangman-game)
@@ -33,7 +37,7 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 
 ## 🌟 Fun Facts
 - 🖊️ Emerson is my favorite author.
-- 📖 I enjoy books on Fiction and philosophy.
+- 📖 I enjoy books on fiction and philosophy.
 - 🛠️ Currently learning advanced React patterns and system integration.
 
 ## 📬 Connect with Me
