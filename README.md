@@ -45,4 +45,4 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 - 🔗 [LinkedIn](https://linkedin.com/in/arnoldtwl)
 - 🌐 [Portfolio](https://arnoldtwl.github.io)
 
-> "What lies behind us and what lies before us are tiny matters compared to what lies within us." - Ralph Waldo Emerson
+> "You can never be where you want to be without fear"
