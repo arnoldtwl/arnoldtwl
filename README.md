@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 - 🛠️ Currently learning advanced React patterns and system integration.
 
 ## 📬 Connect with Me
-- 💌 [Email Me](mailto:arnold.twala@example.com)
+- 💌 [Email Me](mailto:arnoldtwl@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/arnoldtwl)
 - 🌐 [Portfolio](https://arnoldtwl.github.io)
 
