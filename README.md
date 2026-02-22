@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 - **Healthcare Appointment System**: Developing a solution to streamline scheduling and management of healthcare appointments.
 
 ## 📈 GitHub Stats
-![Arnold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldtwl&show_icons=true&theme=radical)
+![Arnold's GitHub Stats](https://github-readme-streak-stats-sigma-mauve.vercel.app?user=arnoldtwl&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats-sigma-mauve.vercel.app?user=arnoldtwl&theme=radical)](https://git.io/streak-stats)
 
 ## ✨ Featured Projects
