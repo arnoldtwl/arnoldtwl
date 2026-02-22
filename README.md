@@ -27,17 +27,16 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 - **Healthcare Appointment System**: Developing a solution to streamline scheduling and management of healthcare appointments.
 
 ## 📈 GitHub Stats
-![Arnold's GitHub Stats](https://github-readme-streak-stats-arnoldtwl.vercel.app/api?username=arnoldtwl&show_icons=true&theme=radical)
+![Arnold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldtwl&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats-arnoldtwl.vercel.app?user=arnoldtwl&theme=radical)](https://git.io/streak-stats)
 
 ## ✨ Featured Projects
-[![Hangman Game](https://github-readme-streak-stats-arnoldtwl.vercel.app/api/pin/?username=arnoldtwl&repo=hangman-game)](https://github.com/arnoldtwl/hangman-game)
-[![City Weather App](https://github-readme-streak-stats-arnoldtwl.vercel.app/api/pin/?username=arnoldtwl&repo=city-weather-app)](https://github.com/arnoldtwl/city-weather-app)
+[![Hangman Game](https://github-readme-stats.vercel.app/api/pin/?username=arnoldtwl&repo=hangman-game)](https://github.com/arnoldtwl/hangman-game)
+[![City Weather App](https://github-readme-stats.vercel.app/api/pin/?username=arnoldtwl&repo=city-weather-app)](https://github.com/arnoldtwl/city-weather-app)
 
 ## 🌟 Fun Facts
 - 🖊️ Emerson is my favorite author.
 - 📖 I enjoy books on fiction and philosophy.
-- 🛠️ Currently learning advanced React patterns and system integration.
 
 ## 📬 Connect with Me
 - 💌 [Email Me](mailto:arnoldtwl@gmail.com)
