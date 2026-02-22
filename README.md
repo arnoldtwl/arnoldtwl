@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm an **Electronic Resources Librarian** and a **
 [![GitHub Streak](https://github-readme-streak-stats-arnoldtwl.vercel.app?user=arnoldtwl&theme=radical)](https://git.io/streak-stats)
 
 ## ✨ Featured Projects
-[![Hangman Game](https://github-readme-stats.vercel.app/api/pin/?username=arnoldtwl&repo=hangman-game)](https://github.com/arnoldtwl/hangman-game)
-[![City Weather App](https://github-readme-stats.vercel.app/api/pin/?username=arnoldtwl&repo=city-weather-app)](https://github.com/arnoldtwl/city-weather-app)
+[![Hangman Game](https://github-readme-streak-stats-arnoldtwl.vercel.app/api/pin/?username=arnoldtwl&repo=hangman-game)](https://github.com/arnoldtwl/hangman-game)
+[![City Weather App](https://github-readme-streak-stats-arnoldtwl.vercel.app/api/pin/?username=arnoldtwl&repo=city-weather-app)](https://github.com/arnoldtwl/city-weather-app)
 
 ## 🌟 Fun Facts
 - 🖊️ Emerson is my favorite author.
